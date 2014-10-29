@@ -1,6 +1,6 @@
 [mech-home-link]: https://github.com/mechanisms/mech "Home repository for mechanisms"
 
-# mech-spreadsheet
+# mech-scope-stack
 
 This library will provide a traditional stack based scoping mechanism.
 
