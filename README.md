@@ -1,5 +1,4 @@
 [mech-home-link]: https://github.com/mechanisms/mech "Home repository for mechanisms"
-[mech-scope-stack-home-link] https://github.com/mechanisms/mech
 
 # mech-spreadsheet
 
